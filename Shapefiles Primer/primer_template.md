@@ -4,6 +4,7 @@
 * Section 7 reference format references in section 1 above
 * Section 7 paragraph breaks before "Official Documentation", and "Software manuals"
 * Section 9 paragraph breaks before "Regular backups", "Comprehensive metadata", "Standardized Metadata Formats", "Regular Format Checks", "Data Conversion Tools"
+* Change the part of Esri File Geodatabase
 * Add MIME types ref. - https://www.iana.org/assignments/media-types/media-types.xhtml
 * 
 
